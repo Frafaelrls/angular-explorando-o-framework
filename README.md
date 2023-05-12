@@ -1,27 +1,43 @@
-# Bytebank
+# Angular: explorando o framework
+<br>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
+Arquivos e documentos utilizados durante o curso **Angular: explorando o framework**, apresentado na plataforma Alura. O conteúdo descritivo do curso pode ser acessado pelo link abaixo.
 
-## Development server
+- [Angular: explorando o framework](https://cursos.alura.com.br/course/angular-comecando-framework)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<br>
 
-## Code scaffolding
+### Informações:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Curso ministrado por: [Anderson Oliveira Santos](https://www.linkedin.com/in/anderson-olliver/)
 
-## Build
+* Idioma: Português
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+* Carga horária: 10 Horas
 
-## Running unit tests
+<br>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Tecnologias utilizadas 🔧
+<br>
 
-## Running end-to-end tests
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+* [Node.js](https://nodejs.org/en/)
 
-## Further help
+* [Angular](https://angular.io/)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* [VsCode](https://code.visualstudio.com/)
+
+<br>
+
+
+### Aluno
+<br>
+
+![Foto do autor](https://user-images.githubusercontent.com/98472557/151680533-d07e7b10-5c68-4db6-8e59-c4641d6936a5.jpg)
+
+Estudando com amor 💝 e com carinho 😊 
+
+Felippe Rafael
+
+[![Linkedin Badge](https://img.shields.io/badge/-Felippe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felippe-rafael/)](https://www.linkedin.com/in/frafaelrls/)
