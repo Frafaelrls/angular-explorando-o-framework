@@ -18,15 +18,13 @@ export class TransferenciaService {
     return this.listaTransferencia;
   }
 
-
-  todas(): Observable<Transferencia[]>{
-
+  todas(): Observable<Transferencia[]> {
     return this.httpCliet.get<Transferencia[]>(this.url);
   }
 
-  adicionar(transferencia: any) {
+  adicionar(transferencia: Transferencia): Observable<Transferencia> {
     this.hidratar(transferencia);
-    this.listaTransferencia.push(transferencia);
+    return this.httpCliet.post<Transferencia>(this.url, transferencia);
   }
 
   private hidratar(transferencia: any) {
